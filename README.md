@@ -21,3 +21,8 @@ lamya_edit branch created and merged into the main branch
 aman made a pull request for the index.html file
 
 # pull request for index.html file changes
+
+# corrections to index.html
+Closed the <dev> tab that was open
+  
+# linking proper folder
